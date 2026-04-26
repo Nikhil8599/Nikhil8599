@@ -5,7 +5,7 @@
 <h1 align="center">Nikhil Kumar Jha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Code+•+Build+•+Learn+•+Repeat;Full+Stack+Developer;Building+Real+World+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Code+•+Build+•+Learn+•+Repeat;Full+Stack+Developer;Building+Real+World+Applications;AI%2FML+Enthusiast;Cloud+Computing+Explorer" />
 </p>
 
 <p align="center">
